@@ -1,7 +1,8 @@
-![Create release with docker](https://github.com/mwinters-stuff/tuya-mqtt-docker/workflows/Create%20release%20with%20docker/badge.svg)
+![Create release with docker](https://github.com/aitorforero/tuya-mqtt-docker/workflows/Create%20release%20with%20docker/badge.svg)
 # Docker image for tuya-mqtt
+forked from https://github.com/mwinters-stuff/tuya-mqtt
 
-See https://github.com/TheAgentK/tuya-mqtt
+See https://github.com/aitorforero/tuya-mqtt forked from https://github.com/TheAgentK/tuya-mqtt
 
 Takes the above repository, and wraps it in a docker image, 
 
